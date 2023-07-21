@@ -1,0 +1,7 @@
+.buttonRow {
+  display: flex;
+  flex-direction: row;
+  margin-top: 0.15rem;
+  gap: 0.5rem;
+  width: 100%;
+}

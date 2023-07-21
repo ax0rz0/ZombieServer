@@ -1,0 +1,36 @@
+.dialog {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background-color: #ffffff10;
+
+  & .header {
+    display: flex;
+    flex-direction: column;
+    gap: 0.1rem;
+    margin-bottom: 0.15rem;
+  }
+
+  & a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 0.9rem;
+  }
+
+  & .input-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+  }
+
+  & .input-label {
+    font-weight: 500;
+  }
+
+  & button {
+    margin-top: 0.25rem;
+    padding: 0.5rem;
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "banner": [
+    {
+      "type": "text",
+      "text": "This project is currently in beta! Please report any bugs to "
+    },
+    {
+      "type": "link",
+      "to": "https://github.com/zombman/mapmanager",
+      "text": " the Github Repository!"
+    }
+  ],
+  "bannerForced": false,
+  "bannerVersion": 2
+}
